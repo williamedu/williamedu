@@ -9,7 +9,7 @@ Full Stack Developer and Game Programmer with expertise in Unity 3D/2D game deve
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [williamhiciano26@gmail.com](mailto:williamhiciano26@gmail.com)
 * 🚀  I'm currently working on [a lottery numbers page based on my country](http://www.loteriashoyrd.com)
-* 🎮  I'm developing The Knight of The Kingdom - Demo available on Steam
+* 🎮  I'm developing [The Knight of The Kingdom - Demo available on Steam](https://store.steampowered.com/app/3325870/The_Knight_of_The_Kingdom/)
 * 🧠  I'm learning Currently learning SEO optimization and advanced animation techniques to enhance user experience and web visibility.
 
 ### Skills
