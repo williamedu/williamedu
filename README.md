@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer & Game Programmer
 --------------------------------------
 
-Full Stack Developer and Game Programmer with expertise in Unity 3D/2D game development and web automation solutions. Specialized in building complete applications with web scraping (Selenium), APIs, and process automation using HTML, CSS, and JavaScript. Creator of Americas Tower Simulator, an advanced air traffic control simulation game. Experienced in developing both entertainment software and practical automation tools for streamlined workflows.
+Full Stack Developer and Game Programmer with expertise in Unity 3D/2D game development and web automation solutions. Currently developing an advanced air traffic control simulator for the Dominican Institute of Civil Aviation (IDAC), creating realistic training environments and 3D airport models. Also developing an RPG titled "The Knight of the Kingdom" with demo available on Steam. Specialized in building complete applications with web scraping (Selenium), APIs, and process automation using HTML, CSS, and JavaScript. Creator of Americas Tower Simulator, an advanced air traffic control simulation game. Experienced in developing both entertainment software, professional simulation systems, and practical automation tools for streamlined workflows.
 
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [williamhiciano26@gmail.com](mailto:williamhiciano26@gmail.com)
